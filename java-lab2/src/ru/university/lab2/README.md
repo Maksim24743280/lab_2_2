@@ -13,6 +13,5 @@
 
 ### Сборка и запуск
 ```bash
-chmod +x build.sh
 ./build.sh
 java -jar lab2.jar
